@@ -8,19 +8,31 @@ I am currently a student at Boise State University, and am set to graduate with 
 * Java
 * Matlab
 * C
-* SQL
 * Swift
-* Awk (in progress)
-* C# (in progress)
-* Prolog (in progress)
-* Scheme/Lisp (in progress)
-* Smalltalk (in progress)
+* SQL
 
-### Math Courses
-* Calculus I and II
-* Multivariable & Vector Calculus
-* Differential Equations & Matrix Theory
-* Introduction to Computational Math
+### Courses Completed
+#### Computer Science/ECE
+* CS121/221 - Computer Science I and II
+* CS230 - Ethical Issues in Computing
+* CS321 - Data Structures
+* CS-HU153 - Navigating Computer Systems
+* CS-HU250 - Intro to Version Control
+* CS-HU271 - Agile Development
+* CS-HU310 - Intro to Database Systems
+* ECE230 - Digital Systems
+* ECE330 - Microprocessors
+* CS253 - Intro to Systems Programming (In Progress)
+* CS354 - Programming Languages (In Progress)
+* CS421 - Algorithms (In Progress)
+* CS402 - Mobile Application Development (In Progress)
+
+#### Math Courses
+* MATH170/175 - Calculus I and II
+* MATH275 - Multivariable & Vector Calculus
+* MATH333 - Differential Equations & Matrix Theory
+* MATH360 - Engineering Statistics
+* MATH365 - Introduction to Computational Methods
 
 # Projects
 
