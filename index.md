@@ -4,12 +4,14 @@
 
 I am currently a student at Boise State University, and am set to graduate with my BS in Computer Science and a minor in Applied Mathematics in December of 2020.
 
-### Programming Languages
+### Skills
 * Java
 * Matlab
 * C
 * Swift
 * SQL
+* Git
+* Scrum/Agile Development
 
 ### Courses Completed
 #### Computer Science/ECE
