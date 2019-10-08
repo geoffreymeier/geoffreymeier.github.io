@@ -36,6 +36,11 @@ I am currently a student at Boise State University, and am set to graduate with 
 
 # Projects
 
+### CPU Scheduling MaxHeap
+* Java
+* GitHub: [Link](https://github.com/geoffreymeier/cs321-p2)
+* Individual School Project
+
 ### Bioinformatics B-Tree
 * Java
 * GitHub: [Link](https://github.com/geoffreymeier/cs321)
