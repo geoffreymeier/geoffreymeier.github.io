@@ -10,6 +10,7 @@ I am currently a student at Boise State University, and am set to graduate with 
 * C
 * Swift
 * SQL
+* ARM Asssembly
 * Git
 * Scrum/Agile Development
 
