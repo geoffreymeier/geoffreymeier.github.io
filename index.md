@@ -39,21 +39,26 @@ I am currently a student at Boise State University, and am set to graduate with 
 
 # Projects
 
-### CPU Scheduling MaxHeap
-* Java
-* GitHub: [Link](https://github.com/geoffreymeier/cs321-p2)
-* Individual School Project
-
 ### Bioinformatics B-Tree
-* Java
+* Implemented a B-Tree data structure for storing the frequency of n-length DNA sequences, which are read in from an external file.
+* Language: Java
 * GitHub: [Link](https://github.com/geoffreymeier/cs321)
 * Team School Project
 
 ### Felix Baumgartner Jump Model
-* Matlab
+* Created a mathematical model based on the Runge-Kutta method to predict daredevil Felix Baumgartner's 2012 jump from space.
+* Individual School Project
+* Language: Matlab R2018b
 * PDF: [Link](Meier%20-%20MATH365%20Final%20Project.pdf)
 
 ### Purchases & Shipments Database
-* Java and MySQL
+* Created a MySQL database for tracking purchase and shipment information, and a Java program to control functionality from the command line.
+* Languages: Java, MySQL
 * GitHub: [Link](https://github.com/geoffreymeier/cshu310)
 * Team School Project
+
+### CPU Scheduling MaxHeap
+* Implemented a max-heap priority queue for use in a simulated CPU scheduling program.
+* Language: Java
+* GitHub: [Link](https://github.com/geoffreymeier/cs321-p2)
+* Individual School Project
