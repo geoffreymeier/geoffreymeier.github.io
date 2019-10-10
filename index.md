@@ -49,6 +49,10 @@ I am currently a student at Boise State University, and am set to graduate with 
 * GitHub: [Link](https://github.com/geoffreymeier/cs321)
 * Team School Project
 
+### Felix Baumgartner Jump Model
+* Matlab
+* PDF: [Link](Meier - MATH365 Final Project.pdf)
+
 ### Purchases & Shipments Database
 * Java and MySQL
 * GitHub: [Link](https://github.com/geoffreymeier/cshu310)
