@@ -51,7 +51,7 @@ I am currently a student at Boise State University, and am set to graduate with 
 
 ### Felix Baumgartner Jump Model
 * Matlab
-* PDF: [Link](./"Meier - MATH365 Final Project.pdf")
+* PDF: [Link]("Meier - MATH365 Final Project.pdf")
 
 ### Purchases & Shipments Database
 * Java and MySQL
