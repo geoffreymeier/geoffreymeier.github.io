@@ -1,7 +1,5 @@
 # About Me
 
-![Picture of Geoffrey](121.jpg)
-
 I am currently a student at Boise State University, and am set to graduate with my BS in Computer Science and a minor in Applied Mathematics in December of 2020.
 
 ### Skills
