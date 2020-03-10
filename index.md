@@ -7,28 +7,32 @@ I am currently a student at Boise State University, and am set to graduate with 
 ### Skills
 * Java
 * Matlab
+* Git
 * C
 * Swift
 * SQL
 * ARM Asssembly
-* Git
 * Scrum/Agile Development
+* Microsoft Office (Word/Excel/Powerpoint)
 
 ### Courses Completed
 #### Computer Science/ECE
 * CS121/221 - Computer Science I and II
 * CS230 - Ethical Issues in Computing
 * CS321 - Data Structures
+* CS253 - Intro to Systems Programming
+* CS354 - Programming Languages
+* CS402 - Mobile Application Development
+* CS421 - Algorithms
 * CS-HU153 - Navigating Computer Systems
 * CS-HU250 - Intro to Version Control
 * CS-HU271 - Agile Development
 * CS-HU310 - Intro to Database Systems
 * ECE230 - Digital Systems
 * ECE330 - Microprocessors
-* CS253 - Intro to Systems Programming (In Progress)
-* CS354 - Programming Languages (In Progress)
-* CS421 - Algorithms (In Progress)
-* CS402 - Mobile Application Development (In Progress)
+* CS332 - Ethical Hacking (Will be completed Spring 2020)
+* CS361 - Theory of Computation (Will be completed Spring 2020)
+* CS471 - Sotware Enineering (Will be completed Spring 2020)
 
 #### Math Courses
 * MATH170/175 - Calculus I and II
