@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Geoffrey Meier
-description: Welcome to Geoffrey Meier's portfolio webpage!
+description: >
+  Welcome to Geoffrey Meier's portfolio webpage!
+  <br><br>
+  <a href="">View my LinkedIn Profile (coming soon)</a>
+logo: "/121.jpg"
+
