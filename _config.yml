@@ -3,8 +3,8 @@ title: Geoffrey Meier
 description: >
   Welcome to Geoffrey Meier's portfolio webpage!
   <br><br>
-  <a href="/index.html#aboutme">About Me</a>
-  <a href="/index.html#projects">Projects</a>
+  <a href="/index.html#aboutme">About Me</a><br>
+  <a href="/index.html#projects">Projects</a><br><br>
   <a href="https://www.linkedin.com/in/geoffrey-meier/">View my LinkedIn Profile</a>
 logo: "/121.jpg"
 
