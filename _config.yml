@@ -7,6 +7,10 @@ description: >
   <a href="/index.html#projects">Projects</a><br><br>
   <a href="https://www.linkedin.com/in/geoffrey-meier/">View my LinkedIn Profile</a>
 logo: "/121.jpg"
+<<<<<<< HEAD
 github: 
   is_project_page: false
+=======
+github: is_project_page: false
+>>>>>>> 9ec7c0c412a73faa1bb9e7d4c6b8350c2634ba97
 
